@@ -1,1 +1,3 @@
-# dimitriCrespo--GRM-II--VINCENT-Erwan--mesures
+# Dimitri CRESPO--MICHAILIDIS
+# Thomas ANTOINE
+# Erwan VINCENT
